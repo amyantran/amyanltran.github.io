@@ -36,24 +36,6 @@ body {
     align-items: center;
 }
 
-.plant {
-  display: block;
-  flex: none;
-  justify-content: center;
-  align-items: center;
-  width: 150px;
-  height: 150px;
-  text-decoration: none;
-  color: black;
-  font-weight: bold;
-  font-size: 20px;
-  font-family: "ff-providence-sans-web-pro", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  margin: 0 auto;
-  background-size: cover;
-  background-position: center;
-}
 
 .plantdiv {
   text-align: center;
