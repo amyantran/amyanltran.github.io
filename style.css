@@ -43,7 +43,6 @@ body {
   align-items: center;
   width: 150px;
   height: 150px;
-  background-color: #fff5f8;
   text-decoration: none;
   color: black;
   font-weight: bold;
@@ -74,7 +73,7 @@ p:visited {
 }
 
 .plant1 {
-  background-image: url(".IMG_0068.PNG");
+  background-image: url("IMG_0068.PNG");
   background-size: cover;
   background-position: center;
 }
