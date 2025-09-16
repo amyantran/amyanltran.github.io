@@ -68,9 +68,6 @@ body {
   text-align: center;
 }
 
-p:visited {
-  color:gray;
-}
 
 .plant1 {
   background-image: url("IMG_0068.PNG");
