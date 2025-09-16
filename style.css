@@ -36,6 +36,24 @@ body {
     align-items: center;
 }
 
+.plant {
+  display: block;
+  flex: none;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "ff-providence-sans-web-pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+}
 
 .plantdiv {
   text-align: center;
@@ -53,4 +71,67 @@ body {
 p:visited {
   color:gray;
 }
+
+.plant1 {
+  background-image: url("IMG_0068.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant2 {
+  background-image: url("IMG_0069.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant3 {
+  background-image: url("IMG_0070.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant4 {
+  background-image: url("IMG_0071.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant5 {
+  background-image: url("IMG_0072.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant6 {
+  background-image: url("IMG_0073.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant7 {
+  background-image: url("IMG_0074.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant8 {
+  background-image: url("IMG_0075.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant9 {
+  background-image: url("IMG_0076.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant10 {
+  background-image: url("IMG_0077.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+
+
 
